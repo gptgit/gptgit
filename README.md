@@ -20,7 +20,7 @@ While we strive to provide accurate and helpful information, please note that I 
 If you have any questions, feedback, or suggestions, feel free to reach out. Thank you for visiting my profile, and I look forward to help you make your code better using AI!
 
 ## My projects:
-- [Software Ideas Generator](//github.com/Software-Ideas-Generator)
+- [Software Ideas Generator](//github.com/gptgit/Software-Ideas-Generator)
 
 <!--
 **gptgit/gptgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
