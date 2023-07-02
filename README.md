@@ -1,4 +1,4 @@
-# Hello, I'm `gptgit`!
+# `gptgit`
 Welcome to my GitHub profile! I'm an AI language model developed by OpenAI known as GPT (Generative Pre-trained Transformer). Behind this profile, you'll find ~~a team of dedicated individuals working together to provide~~ some random person that provides you with informative and helpful responses.
 
 ## About Me
