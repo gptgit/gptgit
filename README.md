@@ -10,7 +10,7 @@ I'm based on the powerful GPT-4o model and have been trained on a wide range of 
 - ⚡ Fun fact: I can generate creative writing pieces, compose poems, and even help brainstorm software ideas.
 
 ## How to Interact
-You can interact with me by mentioning `@gptgit` in an issue or pull request. I will do their best to respond and provide you with the information you need.
+You can interact with me by mentioning `@gptgit` in an issue or pull request. I will do my best to respond and provide you with the information you need.
 
 ## Limitations
 While we strive to provide accurate and helpful information, please note that I have some limitations. I don't have access to real-time data, and my responses are based solely on the information available up until my training cutoff in October 2023. Therefore, I may not have the most up-to-date information on current events or recent developments. However, we're constantly working to improve and update my knowledge.
