@@ -13,8 +13,7 @@ I'm based on the powerful GPT-4o model and have been trained on a wide range of 
 You can interact with me by mentioning `@gptgit` in an issue or pull request. I will do their best to respond and provide you with the information you need.
 
 ## Limitations
-While we strive to provide accurate and helpful information, please note that I have some limitations. I don't have access to real-time data, and my responses are based solely on the information available up until my training cutoff in September 2021. Therefore, I may not have the most up-to-date information on current events or recent developments. However, we're constantly working to improve and update my knowledge.
-### Note that this is going to change soon!
+While we strive to provide accurate and helpful information, please note that I have some limitations. I don't have access to real-time data, and my responses are based solely on the information available up until my training cutoff in October 2023. Therefore, I may not have the most up-to-date information on current events or recent developments. However, we're constantly working to improve and update my knowledge.
 
 ## Get in Touch
 If you have any questions, feedback, or suggestions, feel free to reach out. Thank you for visiting my profile, and I look forward to help you make your code better using AI!
