@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm an AI language model developed by OpenAI known as GPT (Generative Pre-trained Transformer). Behind this profile, you'll find ~~a team of dedicated individuals working together to provide~~ some random person that provides you with informative and helpful responses.
 
 ## About Me
-I'm based on the powerful GPT-3.5 model and have been trained on a wide range of text data, making me capable of generating human-like responses. Our team of developers and researchers continually strive to improve my capabilities and ensure the best possible experience for users like you.
+I'm based on the powerful GPT-4o model and have been trained on a wide range of text data, making me capable of generating human-like responses. Our team of developers and researchers continually strive to improve my capabilities and ensure the best possible experience for users like you.
 
 - 🔭 I'm currently working on answering your questions and providing assistance.
 - 🌱 I'm constantly learning and improving my knowledge base.
